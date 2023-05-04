@@ -7,11 +7,11 @@ Perception and these models are evaluated using metrics such as Mean Squared Err
 
 The repository is as follows:
 
-'Process_notbook.ipynb` contains the overview of the project.
+`Process_notbook.ipynb` contains the overview of the project.
 
 `data.rar` file contains the dataset that it is not cleaned.
 
-'Method.ipynb` is a file that contains the data preprocessing, feature selection, model impelementation, and evaluation.
+`Method.ipynb` is a file that contains the data preprocessing, feature selection, model impelementation, and evaluation.
 
 ## Dataset
 
